@@ -1,6 +1,20 @@
 # Customer-Churn
 Customer Churn occurs when a user or subscriber stops using the service of a company
 ![707 ppt final 1 -01](https://user-images.githubusercontent.com/33265984/48743018-4c265a00-ec2f-11e8-986f-4bb39144ec72.jpg)
-
-[707 Ppt Final (1).pdf](https://github.com/santanisumeet/Customer-Churn/files/2597526/707.Ppt.Final.1.pdf)
+![707 ppt final 1 -02](https://user-images.githubusercontent.com/33265984/48743091-ab846a00-ec2f-11e8-85e8-1e0b5faef70a.jpg)
+![707 ppt final 1 -03](https://user-images.githubusercontent.com/33265984/48743092-ab846a00-ec2f-11e8-970a-5e4fb24bd812.jpg)
+![707 ppt final 1 -04](https://user-images.githubusercontent.com/33265984/48743093-ab846a00-ec2f-11e8-8d1f-e37420bffd36.jpg)
+![707 ppt final 1 -05](https://user-images.githubusercontent.com/33265984/48743094-ab846a00-ec2f-11e8-810f-1f7701745b62.jpg)
+![707 ppt final 1 -06](https://user-images.githubusercontent.com/33265984/48743095-ab846a00-ec2f-11e8-9487-2d35abaf6526.jpg)
+![707 ppt final 1 -07](https://user-images.githubusercontent.com/33265984/48743096-ab846a00-ec2f-11e8-8070-958f94ee1387.jpg)
+![707 ppt final 1 -08](https://user-images.githubusercontent.com/33265984/48743097-ab846a00-ec2f-11e8-99f4-501afac74930.jpg)
+![707 ppt final 1 -09](https://user-images.githubusercontent.com/33265984/48743098-ac1d0080-ec2f-11e8-831b-cbc052e151ba.jpg)
+![707 ppt final 1 -10](https://user-images.githubusercontent.com/33265984/48743099-ac1d0080-ec2f-11e8-8243-f54155b2c9d4.jpg)
+![707 ppt final 1 -11](https://user-images.githubusercontent.com/33265984/48743100-ac1d0080-ec2f-11e8-960f-5bab72ed7657.jpg)
+![707 ppt final 1 -12](https://user-images.githubusercontent.com/33265984/48743101-ac1d0080-ec2f-11e8-93f5-c33e9c48c1df.jpg)
+![707 ppt final 1 -13](https://user-images.githubusercontent.com/33265984/48743102-ac1d0080-ec2f-11e8-999a-b6f0ebbadc8f.jpg)
+![707 ppt final 1 -14](https://user-images.githubusercontent.com/33265984/48743103-ac1d0080-ec2f-11e8-814e-eb76cb815113.jpg)
+![707 ppt final 1 -15](https://user-images.githubusercontent.com/33265984/48743104-ac1d0080-ec2f-11e8-8c47-fffdc8d8c0a1.jpg)
+![707 ppt final 1 -16](https://user-images.githubusercontent.com/33265984/48743105-ac1d0080-ec2f-11e8-90f4-25605638299a.jpg)
+![707 ppt final 1 -17](https://user-images.githubusercontent.com/33265984/48743106-ac1d0080-ec2f-11e8-9561-295b5e0c335f.jpg)
 
